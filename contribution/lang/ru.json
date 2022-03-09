@@ -5429,7 +5429,7 @@
  	 	 	"eng": "of Life"
  	 	},
  	 	"upgradeStun": {
- 	 	 	"trans": "ошлушения",
+ 	 	 	"trans": "оглушения",
  	 	 	"eng": "of Stun"
  	 	},
  	 	"upgradeCriticalChance": {
@@ -5577,7 +5577,7 @@
  	 	 	 	 	"enemyName",
  	 	 	 	 	"value"
  	 	 	 	],
- 	 	 	 	"trans": "${enemyName} атаковал вас, получил урон ${value}",
+ 	 	 	 	"trans": "${enemyName} атаковал вас, полученный урон ${value}",
  	 	 	 	"eng": "${enemyName} attacked you, received ${value} damage"
  	 	 	},
  	 	 	"playerAttack": {
@@ -5585,7 +5585,7 @@
  	 	 	 	 	"enemyName",
  	 	 	 	 	"value"
  	 	 	 	],
- 	 	 	 	"trans": "Вы атаковали ${enemyName}, занимаясь уроном ${value}",
+ 	 	 	 	"trans": "Вы атаковали ${enemyName}, нанесено ${value} урона",
  	 	 	 	"eng": "You attacked ${enemyName}, dealing ${value} damage"
  	 	 	}
  	 	}
